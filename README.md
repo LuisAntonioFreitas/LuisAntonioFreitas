@@ -1,10 +1,14 @@
 ### Hi there 👋, my name is Luis Antonio.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/luisantoniofreitas)
-<!-- <a href="http://www.linkedin.com/in/luisantoniofreitas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
+<!-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luisantoniofreitas) -->
+<!-- <a href="https://www.linkedin.com/in/luisantoniofreitas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 
-📌 [<strong>Curriculo Online</strong>](http://luisantoniofreitas.github.io/cv)
-<!-- 📌 <a href="http://luisantoniofreitas.github.io/cv" target="_blank"><strong>Curriculo Online</strong></a> -->
+<!-- [![](https://img.shields.io/badge/-Luis%20Antonio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantoniofreitas)](https://www.linkedin.com/in/luisantoniofreitas) -->
+[![](https://img.shields.io/badge/-Luis%20Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantoniofreitas)](https://www.linkedin.com/in/luisantoniofreitas)
+[![](https://img.shields.io/badge/-@LuisAntonioFreitas-%23181717?style=flat-square&logo=github&logoColor=white&color=4d5656)](https://github.com/luisantoniofreitas)
+
+📌 [<strong>Curriculo Online</strong>](https://luisantoniofreitas.github.io/cv)
+<!-- 📌 <a href="https://luisantoniofreitas.github.io/cv" target="_blank"><strong>Curriculo Online</strong></a> -->
 
 ![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake.svg)
 
