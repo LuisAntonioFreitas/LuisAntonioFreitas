@@ -2,6 +2,10 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/luisantoniofreitas)
 
+[📌](http://luisantoniofreitas.github.io/cv)
+
+<a href="http://luisantoniofreitas.github.io/cv" target="_blank" style="text-decoration:none!important;color=white!important;">📌 Curriculo Online</a>
+
 ![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake.svg)
 
 <!--
