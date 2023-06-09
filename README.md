@@ -9,13 +9,13 @@
 
 <!-- 📌 [<strong>Curriculo Online</strong>](https://luisantoniofreitas.github.io/cv) -->
 <!-- 📌 <a href="https://luisantoniofreitas.github.io/cv" target="_blank"><strong>Curriculo Online</strong></a> -->
-#### 📌 Curriculo Online<br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
+### 📌 Curriculo Online<br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
 
 ### Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=pie&langs_count=10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=pie&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisantoniofreitas&show_icons=true&theme=react&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisantoniofreitas&show_icons=true&theme=transparent&count_private=true)
 
 ### Contributions<br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake.svg)
 
