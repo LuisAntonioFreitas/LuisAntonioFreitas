@@ -11,13 +11,13 @@
 <!-- 📌 <a href="https://luisantoniofreitas.github.io/cv" target="_blank"><strong>Curriculo Online</strong></a> -->
 #### 📌 Curriculo Online<br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
 
+### Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=pie&langs_count=10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisantoniofreitas&show_icons=true&theme=react&count_private=true)
 
-### Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake.svg)
+### Contributions<br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **LuisAntonioFreitas/LuisAntonioFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
