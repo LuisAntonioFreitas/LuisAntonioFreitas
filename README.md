@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Luis Antonio.
+###👋 Olá, meu nome é Luis Antonio.
+<kdb>👋 Hi there, my name is Luis Antonio.
 
 <!-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luisantoniofreitas) -->
 <!-- <a href="https://www.linkedin.com/in/luisantoniofreitas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
