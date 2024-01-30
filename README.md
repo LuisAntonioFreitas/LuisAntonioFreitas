@@ -1,7 +1,7 @@
 ### 👋 Olá, meu nome é Luis Antonio.<br><kbd>👋 Hi there, my name is Luis Antonio.</kbd>
 
 ### 🌎 Desenvolvedor Web<br><kbd>🌎 Web Developer</kbd>
-#### 📌 Curriculo Online<br><kbd>📌 Online Resume/CV</kbd><br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
+### 📌 Curriculo Online<br><kbd>📌 Online Resume/CV</kbd><br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
 
 [![](https://img.shields.io/badge/-Luis%20Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantoniofreitas)](https://www.linkedin.com/in/luisantoniofreitas)
 [![](https://img.shields.io/badge/-@LuisAntonioFreitas-%23181717?style=flat-square&logo=github&logoColor=white&color=4d5656)](https://github.com/luisantoniofreitas)
