@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-Luis%20Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantoniofreitas)](https://www.linkedin.com/in/luisantoniofreitas)
 [![](https://img.shields.io/badge/-@LuisAntonioFreitas-%23181717?style=flat-square&logo=github&logoColor=white&color=4d5656)](https://github.com/luisantoniofreitas)
 
-### 💡 Habilidades<br><kbd>💡 Skills</kbd>
+### 💡 Habilidades e 📚 Estudos<br><kbd>💡 Skills and 📚 Studies</kbd>
 ![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
@@ -29,7 +29,7 @@
 
 ![](https://img.shields.io/badge/ASP.NET%20Framework-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 
-### 📚 Linguagens do Repositório<br><kbd>📚 Repository Languages</kbd>
+### 💻 Linguagens do Repositório<br><kbd>💻 Repository Languages</kbd>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=compact&langs_count=30&theme=transparent) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&hide_progress=true&langs_count=30&theme=transparent)
 
