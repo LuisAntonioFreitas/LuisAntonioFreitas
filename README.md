@@ -1,5 +1,4 @@
-###👋 Olá, meu nome é Luis Antonio.
-<kdb>👋 Hi there, my name is Luis Antonio.
+### 👋 Olá, meu nome é Luis Antonio.<br><kbd> 👋 Hi there, my name is Luis Antonio.</kbd>
 
 <!-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luisantoniofreitas) -->
 <!-- <a href="https://www.linkedin.com/in/luisantoniofreitas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
@@ -10,7 +9,8 @@
 
 <!-- 📌 [<strong>Curriculo Online</strong>](https://luisantoniofreitas.github.io/cv) -->
 <!-- 📌 <a href="https://luisantoniofreitas.github.io/cv" target="_blank"><strong>Curriculo Online</strong></a> -->
-### 📌 Curriculo Online<br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
+### Sou Desenvolvedor Web<br><kbd> I'm a Web Developer</kbd>
+#### 📌 Curriculo Online<br><kbd> 📌 Online Resume/CV</kbd><br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
 
 ### Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=pie&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
