@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/img_computer_illustration.png" alt="" min-width="400px" max-width="400px" width="400px" align="right">
+
 ### 👋 Olá, meu nome é Luis Antonio.<br><kbd>👋 Hi there, my name is Luis Antonio.</kbd>
 
 ### 🌎 Desenvolvedor Web<br><kbd>🌎 Web Developer</kbd>
