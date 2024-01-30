@@ -36,5 +36,4 @@
 ### 📊 Estatísticas<br><kbd>📊 Stats</kbd>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisantoniofreitas&show_icons=true&theme=transparent&count_private=true&rank_icon=github)
 
-### 🤝 Contributions<br><kbd>🤝 Contributions</kbd>
-![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake-dark.svg)
+### 🤝 Contributions<br><kbd>🤝 Contributions</kbd><br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake-dark.svg)
