@@ -9,6 +9,9 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
     steps:
       # Snake Animation
       - uses: Platane/snk@master
