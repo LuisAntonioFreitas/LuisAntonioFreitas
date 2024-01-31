@@ -40,4 +40,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisantoniofreitas&show_icons=true&theme=transparent&count_private=true&rank_icon=github)
 
 ### 🤝 Contributions<br><kbd>🤝 Contributions</kbd><br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake-dark.svg)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisantoniofreitas&theme=react-dark&area=true&hide_border=true&hide_title=true&height=300)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer" alt="" width="100%" align="left">
+
+<!--
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisantoniofreitas}/count.svg" /></p> 
+<br>
+</div>
+!-->
