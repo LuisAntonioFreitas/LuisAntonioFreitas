@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=header" alt="" width="100%" align="left">
 <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/img_computer_illustration.png" alt="" width="50%" max-width="400px" align="right">
 
 ### 👋 Olá, meu nome é Luis Antonio.<br><kbd>👋 Hi there, my name is Luis Antonio.</kbd>
@@ -39,3 +40,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisantoniofreitas&show_icons=true&theme=transparent&count_private=true&rank_icon=github)
 
 ### 🤝 Contributions<br><kbd>🤝 Contributions</kbd><br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer" alt="" width="100%" align="left">
