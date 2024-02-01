@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=header" alt="" width="100%" align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header" alt="" width="100%" align="left">
 <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/img_computer_illustration.png" alt="" width="50%" max-width="400px" align="right">
 
 ### 👋 Olá, meu nome é Luis Antonio.<br><kbd>👋 Hi there, my name is Luis Antonio.</kbd>
@@ -32,6 +32,11 @@
 
 ![](https://img.shields.io/badge/ASP.NET%20Framework-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 
+### 🚀 ONE | Oracle Next Education
+<div align="left">
+  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/one_spring01_cms_files_10224_1671211139Prancheta_3.png" width="220">
+</div>
+
 ### 💻 Linguagens do Repositório<br><kbd>💻 Repository Languages</kbd>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=compact&langs_count=30&theme=transparent) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&hide_progress=true&langs_count=30&theme=transparent)
@@ -41,7 +46,7 @@
 
 ### 🤝 Contributions<br><kbd>🤝 Contributions</kbd><br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake-dark.svg)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisantoniofreitas&theme=react-dark&area=true&hide_border=true&hide_title=true&height=300)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer" alt="" width="100%" align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer" alt="" width="100%" align="left">
 
 <!--
 <div align="center">
