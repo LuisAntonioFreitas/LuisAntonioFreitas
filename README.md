@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header" alt="" width="100%" align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" alt="" width="100%" align="left">
 <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/img_computer_illustration.png" alt="" width="50%" max-width="400px" align="right">
 
 ### 👋 Olá, meu nome é Luis Antonio.<br><kbd>👋 Hi there, my name is Luis Antonio.</kbd>
@@ -46,7 +46,7 @@
 
 ### 🤝 Contributions<br><kbd>🤝 Contributions</kbd><br>![Snake animation](https://github.com/luisantoniofreitas/luisantoniofreitas/blob/output/github-contribution-grid-snake-dark.svg)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luisantoniofreitas&theme=react-dark&area=true&hide_border=true&hide_title=true&height=300)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer" alt="" width="100%" align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" alt="" width="100%" align="left">
 
 <!--
 <div align="center">
