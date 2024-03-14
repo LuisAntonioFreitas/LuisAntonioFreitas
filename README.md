@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
 
 ![](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat-square)
-![](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Angular-CC2927?logo=angular&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 
