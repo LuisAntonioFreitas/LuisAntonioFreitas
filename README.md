@@ -36,6 +36,7 @@
 ### 🚀 ONE | Oracle Next Education
 <div align="left">
   <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/one_spring01_cms_files_10224_1671211139Prancheta_3.png" width="220">
+  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/one_spring01_badge-conversor" width="220">
 </div>
 
 ### 💻 Linguagens do Repositório<br><kbd>💻 Repository Languages</kbd>
