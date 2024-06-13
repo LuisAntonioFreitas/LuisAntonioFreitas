@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" alt="" width="100%" align="left">
-<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/img_computer_illustration.png" alt="" width="50%" max-width="400px" align="right">
+<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/img_computer_illustration.png" alt="" width="50%" max-width="400px" align="right">
 
 ### 👋 Olá, meu nome é Luis Antonio.<br><kbd>👋 Hi there, my name is Luis Antonio.</kbd>
 
@@ -35,8 +35,9 @@
 
 ### 🚀 ONE | Oracle Next Education
 <div align="left">
-  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/one_spring01_cms_files_10224_1671211139Prancheta_3.png" width="220">
-  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/one_spring01_badge-conversor.png" width="220">
+  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-cms_files_10224_1671211139Prancheta_3.png" width="180">
+  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-conversor.png" width="180">
+  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint02_badge-literalura.png" width="180">
 </div>
 
 ### 💻 Linguagens do Repositório<br><kbd>💻 Repository Languages</kbd>
