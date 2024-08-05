@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/ASP.NET%20Framework-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 
 ### 🚀 ONE | Oracle Next Education
-[https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura]([https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura)
+# [https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura]([https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura)
 <div align="left">
   <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint03_badge-forumhub.png" width="180">
   <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint02_badge-literalura.png" width="180">
