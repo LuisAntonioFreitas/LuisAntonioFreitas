@@ -40,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-conversor.png" width="180">
   <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-cms_files_10224_1671211139Prancheta_3.png" width="180">
 </div>
+
 ### 📌 Curriculo Online<br><kbd>📌 Online Resume/CV</kbd><br>[https://luisantoniofreitas.github.io/cv](https://luisantoniofreitas.github.io/cv)
 [xxx](https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura)
 
