@@ -35,13 +35,23 @@
 
 ### 🚀 ONE | Oracle Next Education
 <div align="left">
-  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint03_badge-forumhub.png" width="180">
-  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint02_badge-literalura.png" width="180">
-  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-conversor.png" width="180">
-  <img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-cms_files_10224_1671211139Prancheta_3.png" width="180">
+  
+  [<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint03_badge-forumhub.png" width="140">](
+  https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura
+  )   <!-- https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint03_forum_hub_java_spring -->
+  [<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint02_badge-literalura.png" width="140">](
+  https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura
+  )   <!-- https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_sprint02_literalura_java_spring -->
+  [<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-conversor.png" width="140">](
+  https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura
+  )  <!-- https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_conversor_de_moedas_java -->
+  [<img src="https://raw.githubusercontent.com/LuisAntonioFreitas/LuisAntonioFreitas/main/assets/oracle_one/one_sprint01_badge-cms_files_10224_1671211139Prancheta_3.png" width="140">](
+  https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura
+  )  <!-- https://github.com/LuisAntonioFreitas/estudo_alura_oracle_one_challenge_spring01_decodificador_de_texto_javascript -->
+  
 </div>
 
-#### [https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura](https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura)
+<!-- #### [https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura](https://github.com/LuisAntonioFreitas/estudo_one_oracle_next_education_alura) -->
 
 ### 💻 Linguagens do Repositório<br><kbd>💻 Repository Languages</kbd>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisantoniofreitas&layout=compact&langs_count=30&theme=transparent) -->
